@@ -1,0 +1,41 @@
+Link: https://learngitbranching.js.org
+
+Main > Introduction Sequence
+
+	1.) Introduction to Git Commits (Completed)
+		$git commit
+		$git commit
+
+	2.) Branching Git (Completed)
+		$git branch bugFix
+		$git checkout bugFix
+
+	3.) Merging in Git (Completed)
+		$git branch bugFix
+		$git checkout bugFix
+		$git commit
+		$git checkout main
+		$git commit
+		$git merge bugFix
+
+Remote > Push & Pull
+
+	3.) Git Fetchin' (Completed)
+		$git fetch
+
+	4.) Git Pullin' (Completed)
+		$git pull //Solution 1
+
+		$git fetch //Solution 2
+		$git merge o/main
+
+	5.) Faking Teamwork (Completed)
+		$git clone
+		$git fakeTeamwork main 2
+		$git commit
+		$git pull
+
+	6.) Git Pushin' (Completed)
+		$git commit
+		$git commit
+		$git push
